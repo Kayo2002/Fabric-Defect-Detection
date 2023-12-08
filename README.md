@@ -12,7 +12,6 @@ Fabric Defect Detection is a deep learning project that focuses on identifying a
 ## How to Use
 To get started, follow the installation instructions and explore the provided scripts for training, evaluation, and using custom data. The project aims to be user-friendly while delivering robust fabric defect detection capabilities.
 
-Feel free to modify and expand this description based on additional details you'd like to highlight or emphasize.
 
 
 
